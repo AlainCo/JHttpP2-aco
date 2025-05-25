@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jHTTPp2
+Bundle-SymbolicName: jhttpp2-rcp;singleton:=true
+Bundle-Version: 0.5.7.qualifier
+Bundle-Vendor: AlainCo
+Export-Package: fr.alainco.jhttpp2.console;x-internal:=true,
+  fr.alainco.jhttpp2.core.internal;x-internal:=true,
+  fr.alainco.jhttpp2.rcp
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: fr.alainco.jhttpp2.rcp
+Main-Class: fr.alainco.jhttpp2.console.Jhttpp2Launcher
+Class-Path: .

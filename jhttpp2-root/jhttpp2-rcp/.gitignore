@@ -1,0 +1,9 @@
+/bin/
+/target/
+/.settings/
+/.project
+/.classpath
+/tmp
+/logs
+/.flattened-pom.xml
+/.sts4-cache/
