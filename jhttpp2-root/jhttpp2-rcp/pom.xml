@@ -10,10 +10,8 @@
 		<artifactId>jhttpp2-root</artifactId>
 		<version>${revision}</version>
 	</parent>
-
 	<artifactId>jhttpp2-rcp</artifactId>
 	<packaging>eclipse-plugin</packaging>
-
 	<name>jHTTPp2 RCP</name>
 
 	<repositories>

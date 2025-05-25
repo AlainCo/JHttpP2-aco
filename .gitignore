@@ -6,3 +6,4 @@
 /tmp
 /logs
 /.flattened-pom.xml
+.vscode/
